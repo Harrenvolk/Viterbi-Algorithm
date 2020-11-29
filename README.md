@@ -10,7 +10,7 @@ git clone <repository_link>
 ```  
 - Enter the **src** folder and install the requirements - 
 ```
-pip install -r requirement.txt
+pip install -r requirements.txt
 ```
 - Run the project code - 
 ```
