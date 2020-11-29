@@ -321,7 +321,7 @@ def main():
     main()
     """
     global split
-    split = sys.argv[1]
+    split = "dev"
     if split not in ["dev", "test"]:
         print('Error: split options are "dev" or "test"')
         sys.exit(1)
